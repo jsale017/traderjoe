@@ -1,0 +1,98 @@
+OPTIMAL GROCERY LIST: Total Cost: $70.45
+MACROS: Calories:15608 | Protein:420 | Fat:544 | Carbs:2472 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-12 Grain Mini Snack Crackers x 3.0
+-90% Lean 10% Fat Heirloom Ground Chicken x 3.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-Albacore Tuna in water x 3.0
+-Almond Butter Chia Overnight Oats x 2.0
+-Almonds, Dark Chocolate Covered x 1.0
+-Ancient Grain & Super Seed Oatmeal x 2.0
+-Angus Beef Chili, with Pinto Beans x 3.0
+-Chocolate Covered Wafer Cookie with Peanut Butter Filling x 1.0
+-The Dark Chocolate Lover's Chocolate Bar x 1.0
+-Banana x 2.0
+
+ALTERNATIVE GROCERY LIST 1: Total Cost: $71.45
+MACROS: Calories:15506 | Protein:420 | Fat:558 | Carbs:2070 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-12 Grain Mini Snack Crackers x 3.0
+-90% Lean 10% Fat Heirloom Ground Chicken x 3.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-Albacore Tuna in water x 3.0
+-Almond Butter Chia Overnight Oats x 2.0
+-Almonds, Dark Chocolate Covered x 1.0
+-Ancient Grain & Super Seed Oatmeal x 2.0
+-Angus Beef Chili, with Pinto Beans x 3.0
+-85% Dark Chocolate Bar from Uganda x 1.0
+-The Dark Chocolate Lover's Chocolate Bar x 1.0
+-Banana x 2.0
+Items removed: ['Chocolate Covered Wafer Cookie with Peanut Butter Filling']
+Items added: ['85% Dark Chocolate Bar from Uganda']
+
+ALTERNATIVE GROCERY LIST 2: Total Cost: $72.45
+MACROS: Calories:15438 | Protein:422 | Fat:529 | Carbs:2452 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-12 Grain Mini Snack Crackers x 3.0
+-90% Lean 10% Fat Heirloom Ground Chicken x 3.0
+-Advent of The Cocktail Hour Chocolate Truffle x 1.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-Albacore Tuna in water x 1.0
+-All Natural Boneless Skinless Chicken Thighs x 2.0
+-Almond Butter Chia Overnight Oats x 1.0
+-Almonds, Dark Chocolate Covered x 1.0
+-Ancient Grain & Super Seed Oatmeal x 2.0
+-Angus Beef Chili, with Pinto Beans x 3.0
+-Chocolate Covered Wafer Cookie with Peanut Butter Filling x 1.0
+-The Dark Chocolate Lover's Chocolate Bar x 1.0
+-Banana x 2.0
+Items removed: []
+Items added: ['All Natural Boneless Skinless Chicken Thighs', 'Advent of The Cocktail Hour Chocolate Truffle']
+
+ALTERNATIVE GROCERY LIST 3: Total Cost: $73.45
+MACROS: Calories:15913 | Protein:422 | Fat:555 | Carbs:2517 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-12 Grain Mini Snack Crackers x 3.0
+-4 Cheese Ravioli x 1.0
+-90% Lean 10% Fat Heirloom Ground Chicken x 3.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-Albacore Tuna in water x 3.0
+-All Natural Boneless Skinless Chicken Thighs x 1.0
+-Almond Butter Chia Overnight Oats x 2.0
+-Almonds, Dark Chocolate Covered x 3.0
+-Ancient Grain & Super Seed Oatmeal x 2.0
+-Angus Beef Chili, with Pinto Beans x 1.0
+-Chocolate Covered Wafer Cookie with Peanut Butter Filling x 1.0
+-Hot Cocoa Ornaments x 1.0
+-Apple x 1.0
+-Banana x 3.0
+Items removed: ["The Dark Chocolate Lover's Chocolate Bar"]
+Items added: ['All Natural Boneless Skinless Chicken Thighs', '4 Cheese Ravioli', 'Hot Cocoa Ornaments', 'Apple']
+
+ALTERNATIVE GROCERY LIST 4: Total Cost: $74.45
+MACROS: Calories:15452 | Protein:426 | Fat:471 | Carbs:2571 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-100% Pure Florida Orange Juice x 1.0
+-12 Grain Mini Snack Crackers x 1.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-Albacore Tuna in water x 3.0
+-All Natural Boneless Skinless Chicken Thighs x 3.0
+-Almond Butter Chia Overnight Oats x 3.0
+-Ancient Grain & Super Seed Oatmeal x 3.0
+-Angus Beef Chili, with Pinto Beans x 3.0
+-Chocolate Covered Wafer Cookie with Peanut Butter Filling x 1.0
+-Non-Dairy Chocolate Oat Beverage x 1.0
+-Banana x 2.0
+Items removed: ['90% Lean 10% Fat Heirloom Ground Chicken', 'Almonds, Dark Chocolate Covered', "The Dark Chocolate Lover's Chocolate Bar"]
+Items added: ['All Natural Boneless Skinless Chicken Thighs', '100% Pure Florida Orange Juice', 'Non-Dairy Chocolate Oat Beverage']
+
