@@ -63,7 +63,7 @@ def optimize_grocery_list(data=nutrition_data_cleaned, preferences_dict=preferen
 
     # creating  model
     uimodel = LpProblem("Optimal_Grocery_List", LpMinimize)
-    x = {i: LpVariable(f"x_{i}", lowBound = 0, upBound=preferences_dict['Repetition'], cat="Integer") for i in nutrition_data_cleaned.index}    
+    x = {i: LpVariable(f"x_{i}", lowBound = 0, upBound=preferences_dict['Repetition'], cat="Integer") for i in nutrition_data_cleaned.index}
     # creating constraints
 
     # weekly values
@@ -118,7 +118,7 @@ def optimize_grocery_list(data=nutrition_data_cleaned, preferences_dict=preferen
 
             removed_items.append(list(set(optimal_items) - set(selected_items)))
             added_items.append(list(set(selected_items) - set(optimal_items)))
-            
+
             iter +=1
             if iter >= K: # only get top K
               try: # delete existing constraint if exists
@@ -129,7 +129,7 @@ def optimize_grocery_list(data=nutrition_data_cleaned, preferences_dict=preferen
         # If a new optimal solution cannot be found, we end the program
         else:
             break
-    alternatives_df = pd.DataFrame({'Remove these items':removed_items,'Add these items':added_items})        
+    alternatives_df = pd.DataFrame({'Remove these items':removed_items,'Add these items':added_items})
 
     return optimal_items_dict, macros, total_cost, alternatives_df
 
@@ -137,7 +137,7 @@ def optimize_grocery_list(data=nutrition_data_cleaned, preferences_dict=preferen
 
 if st.button("Optimize Grocery List"):
 
-    selected_items_dict, macros, total_cost, alternatives_df =  optimize_grocery_list() 
+    selected_items_dict, macros, total_cost, alternatives_df =  optimize_grocery_list()
     with st.status("Generating Optimal Grocery List", expanded=True):
       st.write("Defining Model...")
       time.sleep(2)
@@ -145,7 +145,7 @@ if st.button("Optimize Grocery List"):
       time.sleep(3)
       st.write("Generating Alternatives...")
       time.sleep(5)
-    
+
     st.success("Optimization complete!")
     st.subheader("Optimal Grocery List")
 
@@ -153,7 +153,7 @@ if st.button("Optimize Grocery List"):
     selected_qty = list(selected_items_dict.values())
     selected_items_df = pd.DataFrame({'Item':selected_items, 'Qty':selected_qty})
 
-    matching_rows = nutrition_data_cleaned[nutrition_data_cleaned['item'].isin(selected_items)] 
+    matching_rows = nutrition_data_cleaned[nutrition_data_cleaned['item'].isin(selected_items)]
     try:
 
       # retrieve item w/ features from dataframe
@@ -174,7 +174,7 @@ if st.button("Optimize Grocery List"):
     st.subheader(f"MACROS: Protein - {macros[1]:.0f} | Fat - {macros[2]:.0f} | Carbs - {macros[3]:.0f}")
 
     st.subheader("Substitutions")
-    st.write("""Swap these items from the generated list with any set of alternative to create a meal plan more suited to your taste. 
+    st.write("""Swap these items from the generated list with any set of alternative to create a meal plan more suited to your taste.
     Alternatives are nearly identical in Macros, and only $1-4 more expensive than the original list.""")
     st.dataframe(alternatives_df)
 

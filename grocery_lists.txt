@@ -1,0 +1,99 @@
+OPTIMAL GROCERY LIST: Total Cost: $70.45
+MACROS: Calories:15608 | Protein:420 | Fat:544 | Carbs:2472 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-12 Grain Mini Snack Crackers x 3.0
+-90% Lean 10% Fat Heirloom Ground Chicken x 3.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-Albacore Tuna in water x 3.0
+-Almond Butter Chia Overnight Oats x 2.0
+-Almonds, Dark Chocolate Covered x 1.0
+-Ancient Grain & Super Seed Oatmeal x 2.0
+-Angus Beef Chili, with Pinto Beans x 3.0
+-Chocolate Covered Wafer Cookie with Peanut Butter Filling x 1.0
+-The Dark Chocolate Lover's Chocolate Bar x 1.0
+-Banana x 2.0
+
+ALTERNATIVE GROCERY LIST 1: Total Cost: $71.45
+MACROS: Calories:15558 | Protein:420 | Fat:539 | Carbs:2469 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-12 Grain Mini Snack Crackers x 3.0
+-4% Milkfat Minimum Small Curd Cottage Cheese x 1.0
+-90% Lean 10% Fat Heirloom Ground Chicken x 2.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-Albacore Tuna in water x 3.0
+-All Natural Boneless Skinless Chicken Thighs x 1.0
+-Almond Butter Chia Overnight Oats x 3.0
+-Ancient Grain & Super Seed Oatmeal x 2.0
+-Angus Beef Chili, with Pinto Beans x 2.0
+-Chocolate Covered Wafer Cookie with Peanut Butter Filling x 1.0
+-The Dark Chocolate Lover's Chocolate Bar x 1.0
+-Banana x 2.0
+Items removed: ['Almonds, Dark Chocolate Covered']
+Items added: ['4% Milkfat Minimum Small Curd Cottage Cheese', 'All Natural Boneless Skinless Chicken Thighs']
+
+ALTERNATIVE GROCERY LIST 2: Total Cost: $72.45
+MACROS: Calories:15955 | Protein:420 | Fat:549 | Carbs:2550 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-12 Grain Mini Snack Crackers x 2.0
+-90% Lean 10% Fat Heirloom Ground Chicken x 3.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-All Natural Boneless Skinless Chicken Thighs x 1.0
+-Almond Butter Chia Overnight Oats x 3.0
+-Almonds, Dark Chocolate Covered x 2.0
+-Ancient Grain & Super Seed Oatmeal x 3.0
+-Angus Beef Chili, with Pinto Beans x 3.0
+-Chocolate Covered Wafer Cookie with Peanut Butter Filling x 1.0
+-Gnocchi x 1.0
+-Banana x 2.0
+Items removed: ['Albacore Tuna in water', "The Dark Chocolate Lover's Chocolate Bar"]
+Items added: ['Gnocchi', 'All Natural Boneless Skinless Chicken Thighs']
+
+ALTERNATIVE GROCERY LIST 3: Total Cost: $73.45
+MACROS: Calories:15564 | Protein:420 | Fat:511 | Carbs:2531 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-1% Low Fat Milk x 1.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-12 Grain Mini Snack Crackers x 2.0
+-3 Seed Sweet Potato Crackers x 2.0
+-90% Lean 10% Fat Heirloom Ground Chicken x 2.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-Albacore Tuna in water x 2.0
+-Almond Butter Chia Overnight Oats x 3.0
+-Almonds, Dark Chocolate Covered x 3.0
+-Ancient Grain & Super Seed Oatmeal x 2.0
+-Angus Beef Chili, with Pinto Beans x 3.0
+-Chocolate Covered Wafer Cookie with Peanut Butter Filling x 1.0
+-Non-Dairy Chocolate Oat Beverage x 1.0
+-Banana x 3.0
+Items removed: ["The Dark Chocolate Lover's Chocolate Bar"]
+Items added: ['1% Low Fat Milk', 'Non-Dairy Chocolate Oat Beverage', '3 Seed Sweet Potato Crackers']
+
+ALTERNATIVE GROCERY LIST 4: Total Cost: $74.45
+MACROS: Calories:15662 | Protein:422 | Fat:557 | Carbs:2254 
+-0% Greek Yogurt, Nonfat, Plain x 3.0
+-1% Milkfat Low Fat Milk x 1.0
+-100% Pure Florida Grapefruit Juice, Ruby Red x 3.0
+-12 Grain Mini Snack Crackers x 3.0
+-3 Seed Sweet Potato Crackers x 1.0
+-90% Lean 10% Fat Heirloom Ground Chicken x 3.0
+-Advent of The Cocktail Hour Chocolate Truffle x 1.0
+-Alaskan Wild Sockeye Salmon Fillet Portions x 3.0
+-Albacore Tuna x 3.0
+-Albacore Tuna in water x 3.0
+-Almond Butter Chia Overnight Oats x 2.0
+-Almonds, Dark Chocolate Covered x 2.0
+-Ancient Grain & Super Seed Oatmeal x 2.0
+-Angus Beef Chili, with Pinto Beans x 2.0
+-Hot Cocoa Ornaments x 1.0
+-Apple x 1.0
+-Banana x 3.0
+Items removed: ["The Dark Chocolate Lover's Chocolate Bar", 'Chocolate Covered Wafer Cookie with Peanut Butter Filling']
+Items added: ['Apple', '1% Milkfat Low Fat Milk', '3 Seed Sweet Potato Crackers', 'Advent of The Cocktail Hour Chocolate Truffle', 'Hot Cocoa Ornaments']
+
