@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/d-roho/traderjoe/blob/main/TJStreamlitTutorial.gif">
-<img src="./READMEDocs/Intro.gif"/>
+<img src="./TJStreamlitTutorial.gif"/>
 </a>
 </p>
 
