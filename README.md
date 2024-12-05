@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/jsale017/traderjoe/blob/main/TJStreamlitTutorial.gif">
+<a href="https://github.com/d-roho/traderjoe/blob/main/TJStreamlitTutorial.gif">
 <img src="./READMEDocs/Intro.gif"/>
 </a>
 </p>
